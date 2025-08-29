@@ -1,0 +1,22 @@
+.nombre{
+font: 1em sans-serif;
+
+}
+
+p{
+    color: black;
+    font-size: 15px ;
+
+}
+
+h1{
+    text-align: center;
+    color: brown;
+}
+nav{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: medium;
+}
